@@ -219,20 +219,6 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    title: "CBIT-MIS",
-  
-    description:
-      "Developed Management Information System, a MERN stack-based application for Chaitanya Bharathi Institute of Technology (CBIT) to efficiently manage and track infrastructure data, including labs, classrooms, seminar halls, library, and sports facilities. This system optimizes resource utilization and maintenance for the institution.",
-    image:
-      "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(404).png?raw=true",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
-    category: "web app",
-    github: "https://github.com/Rohithchowk/miscbit.git",
-    webapp: "https://miscbit.vercel.app",
-    
-  },
-  {
-    id: 0,
     img: "https://i.imgur.com/C4KBnix.png",
     College: "Chaitanya Bharathi Institute of Technology , Gandipet,Hyderabad",
     date: " 2021 - 2025",
@@ -261,6 +247,20 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 0,
+    title: "CBIT-MIS",
+  
+    description:
+      "Developed Management Information System, a MERN stack-based application for Chaitanya Bharathi Institute of Technology (CBIT) to efficiently manage and track infrastructure data, including labs, classrooms, seminar halls, library, and sports facilities. This system optimizes resource utilization and maintenance for the institution.",
+    image:
+      "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(404).png?raw=true",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
+    category: "web app",
+    github: "https://github.com/Rohithchowk/miscbit.git",
+    webapp: "https://miscbit.vercel.app",
+    
+  },
   {
     id: 9,
     title: "Cbit IT dept. Website",
@@ -299,7 +299,7 @@ export const projects = [
     webapp: "",
     
   },
-  
+ 
   {
     id: 1,
     title: "Mini-Messenger",
@@ -389,5 +389,3 @@ export const projects = [
     webapp: "https://github.com/Rohithchowk/housepriceprediction.git",
   },
 ];
-
-
