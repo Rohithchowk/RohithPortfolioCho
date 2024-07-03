@@ -348,6 +348,19 @@ export const projects = [
     github: "https://github.com/Rohithchowk/MERN_crud_app.git",
     webapp: "",
   },
+  {
+    id: 5,
+    title: "CODING-STRIVERS",
+    date: "Feb 2024",
+    description:
+      "Developed CodeStrivers, a dynamic React.js website for an edutech organization that offers an engaging and user-friendly platform. The site aims to enhance learners' coding skills through interactive content and resources.",
+    image:
+      "https://github.com/Rohithchowk/codingstrivers/blob/main/Screenshot%20(405).png?raw=true",
+    tags: ["React Js","CSS","MUI"],
+    category: "web app",
+    github: "https://github.com/Rohithchowk/codingstrivers.git",
+    webapp: "https://codingstrivers.vercel.app/",
+  },
   
   {
     id: 7,
